@@ -1,2 +1,2 @@
 # trabalho
-fiz com o natã e vinicius 
+fiz com o natã 
