@@ -17,31 +17,44 @@ h5{color: black}
 
 
 
-#ferrari {margin-left: 27%}
+#ferrari {margin-left: 30%}
 #ferrari {width: 40% }
 #ferrari {size: -1000}
+#ferrari {border-color: red;}
 
 #fabrica {margin-left: 27%}
 #fabrica {width: 40%}
 #fabrica {size: 250%}
+#fabrica {border-color: red;}
+
 
 #en {margin-left: 27%}
 #en {width: 40%}
 #en {size: 250%}
+#en {border-color: red;}
+
 
 #fiat {margin-left: 27%}
 #fiat {width: 40%}
 #fiat {size: 250%}
+#fiat {border-color: red;}
+
 
 #monaco {margin-left: 27%}
 #monaco {width: 40%}
 #monaco {size: 250%}
+#monaco {border-color: red;}
+
 
 #le mans {margin-left: 24%}
 #le mans {width: 40%}
 #le mans {size: 250%}
+#le mans {border-color: red;}
+
 
 #le mans 2 {margin-left: 24%}
 #le mans 2 {width: 40%}
 #le mans 2 {size: 250%}
+#le mans 2 {border-color: red;}
+
 
