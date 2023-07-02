@@ -1,6 +1,7 @@
 h1 {color:red}
 h1 {font-size: 340%}
 h1 {text-align: center;}
+h1 {border: solid 3PX crimson}
 
 h2 {font-size: 150%}
 h2 {color: black}
@@ -28,3 +29,11 @@ h2 {color: black}
 #monaco {margin-left: 27%}
 #monaco {width: 40%}
 #monaco {size: 250%}
+
+#le mans {margin-left: 24%}
+#le mans {width: 40%}
+#le mans {size: 250%}
+
+#le mans 2 {margin-left: 24%}
+#le mans 2 {width: 40%}
+#le mans 2 {size: 250%}
